@@ -1,3 +1,5 @@
+XunoPlayer-QtAV is fork of QtAV a multimedia playback library based on Qt and FFmpeg with enhanced user functionality and optimization for High quality Quality 10-bit YUV444 AV1 & HEVC video.
+
 # [QtAV](http://wang-bin.github.io/QtAV)  [![Build Status](https://travis-ci.org/wang-bin/QtAV.svg)](https://travis-ci.org/wang-bin/QtAV)
 
 QtAV is a multimedia playback library based on Qt and FFmpeg. It can help you to write a player
